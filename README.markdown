@@ -1,5 +1,13 @@
 # rack-rewrite
 
+---
+
+This is a test of making a pull request. These are the lines  changed, plus the VERSION file., in a feature branch called "test_pull_".
+
+`Aug 2017`
+
+---
+
 A rack middleware for defining and applying rewrite rules. In many cases you
 can get away with rack-rewrite instead of writing Apache mod_rewrite rules.
 
